@@ -10,9 +10,9 @@ int main() {
         printf("1. Nhap so phan tu va gia tri cho mang\n");
         printf("2. In gia tri cac phan tu trong mang\n");
         printf("3. Dem so luong cac so hoan hao trong mang\n");
-        printf("4. Tim gia tri nho thu 2 trong mang\n");
-        printf("5. Them mot phan tu vao vi tri ngau nhien\n");
-        printf("6. Xoa phan tu tai vi tri cu the\n");
+        printf("4. Tim gia tri nho thu 2 trong mang, khong duoc sap xep mang\n");
+        printf("5. Them mot phan tu vao vi tri ngau nhien trong mang, phan tu moi them vao mang va vi tri them vao phai do nguoi dung nhap vao,chi them phan tu do vao mangneu phan tu do chua ton tai trong mang\n");
+        printf("6. Xoa phan tu tai vi tri cu the (nguoi dung nhap vi tri)\n");
         printf("7. Tim kiem mot phan tu trong mang\n");
         printf("8. Sap xep le truoc, chan sau\n");
         printf("9. Kiem tra mang co tang dan hay khong\n");
